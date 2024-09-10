@@ -30,6 +30,9 @@
           gopls
           gotools
           golangci-lint
+          protobuf_26
+          protoc-gen-go
+          protoc-gen-go-grpc
         ];
       };
     });
