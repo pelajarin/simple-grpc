@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TodoRequest {
+	string title = 1;
+	string thing = 2;
+}
